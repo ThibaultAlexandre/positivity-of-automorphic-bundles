@@ -1,3 +1,3 @@
 # positivity-of-automorphic-bundles
 
-In this repository, we explore the possibility of proving that certain subvarieties of the good reduction modulo p of the Siegel mdoular varieties are of log-general type. These results seem only valid when the prime p is larger than a specific bound depending on the dimension of the variety.
+We explore the possibility of proving that certain good subvarieties of the good reduction modulo p of the Siegel modular varieties are of log-general type when the prime p is large enough. Our conjecture is now a theorem, you can find the proof in our paper https://arxiv.org/abs/2206.05804.
